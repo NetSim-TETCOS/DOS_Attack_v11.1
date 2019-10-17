@@ -1,0 +1,28 @@
+Calculating shortest path for router 3 at time 4.270
+Calculating shortest path for area 0.0.0.0
+Examine LSA of type ROUTER_LSA, Id 11.2.1.1, seq num 0
+	Looking for vertex 11.2.1.1 from router LSA
+	Examine link 11.2.1.1, link type Stub
+Candidate list for router 3
+    size = 0
+11.2.1.1 is my address. Not processing this link
+Shortest path list for router 3, area 0.0.0.0
+    size = 1
+	Vertex Id = 11.2.1.1
+	Vertex Type = VERTEX_ROUTER
+	Metric = 0
+
+Calculating shortest path for router 5 at time 15.222
+Calculating shortest path for area 0.0.0.0
+Examine LSA of type ROUTER_LSA, Id 11.2.1.2, seq num 0
+	Looking for vertex 11.2.1.2 from router LSA
+	Examine link 11.2.1.2, link type Stub
+Candidate list for router 5
+    size = 0
+11.2.1.2 is my address. Not processing this link
+Shortest path list for router 5, area 0.0.0.0
+    size = 1
+	Vertex Id = 11.2.1.2
+	Vertex Type = VERTEX_ROUTER
+	Metric = 0
+

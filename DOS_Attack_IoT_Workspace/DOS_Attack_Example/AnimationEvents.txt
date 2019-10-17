@@ -1,0 +1,13 @@
+Start program >2019/10/17 17:44:59
+Data Path > C:\Users\Namrata\AppData\Roaming\NetSim\std11.1.11\GUIConfigurations\
+Start xml Reading loading >2019/10/17 17:45:01
+Start Plugin >2019/10/17 17:45:01
+Stop Plugin >2019/10/17 17:45:01
+Xml reading done >2019/10/17 17:45:01
+start  animation view >2019/10/17 17:45:02
+End animation view >2019/10/17 17:45:02
+Start Table view >2019/10/17 17:45:02
+End Table view >2019/10/17 17:45:02
+thread check  >2019/10/17 17:45:02
+END loading >2019/10/17 17:45:02
+Can write file

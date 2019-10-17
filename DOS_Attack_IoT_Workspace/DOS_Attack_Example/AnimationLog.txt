@@ -1,0 +1,2 @@
+Data Path > C:\Users\Namrata\AppData\Roaming\NetSim\std11.1.11\GUIConfigurations\
+Can write file
